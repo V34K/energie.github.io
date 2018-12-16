@@ -1,2 +1,2 @@
-# energie.github.io
+energie.github.io
 Personal Portfolio website
